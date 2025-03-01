@@ -1,3 +1,11 @@
+# Índice
+
+- [Motus JS](./docs/es/README.md)
+- [Instalación](./docs/es/Install.md)
+- [Contribución](./docs/es/Contributions.md)
+- [Roadmap](./docs/es/RoadMap.md)
+
+
 # Instalación de Motus JS
 Esta sección explica las distintas formas de integrar Motus JS en tu proyecto, tanto si prefieres gestionar tus dependencias con un gestor de paquetes como si deseas incluir la biblioteca de forma directa en el navegador.
 

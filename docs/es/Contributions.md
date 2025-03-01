@@ -1,3 +1,11 @@
+# Índice
+
+- [Motus JS](./docs/es/README.md)
+- [Instalación](./docs/es/Install.md)
+- [Contribución](./docs/es/Contributions.md)
+- [Roadmap](./docs/es/RoadMap.md)
+
+
 # Contribución
 Motus JS es un proyecto de código abierto, y tu ayuda es esencial para mejorar y expandir sus funcionalidades. Agradecemos cualquier aporte, ya sea en forma de código, documentación, pruebas o ideas. A continuación, se detallan las directrices para contribuir y el plan a futuro del proyecto.
 

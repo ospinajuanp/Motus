@@ -1,3 +1,11 @@
+# Índice
+
+- [Motus JS](./docs/es/README.md)
+- [Instalación](./docs/es/Install.md)
+- [Contribución](./docs/es/Contributions.md)
+- [Roadmap](./docs/es/RoadMap.md)
+
+
 # Roadmap del Proyecto 
 El roadmap es una guía flexible que detalla las próximas mejoras y funcionalidades previstas para Motus JS. Este plan se actualiza periódicamente en función de las prioridades y del feedback recibido de la comunidad.
 

@@ -1,3 +1,11 @@
+# Índice
+
+- [Motus JS](./docs/es/README.md)
+- [Instalación](./docs/es/Install.md)
+- [Contribución](./docs/es/Contributions.md)
+- [Roadmap](./docs/es/RoadMap.md)
+
+
 # Motus JS
 
 Motus JS es una biblioteca ligera y sin dependencias externas para la detección de gestos táctiles en la web. Su diseño minimalista y modular permite integrar interacciones táctiles básicas de forma rápida y eficiente, mejorando la experiencia de usuario sin sacrificar el rendimiento.

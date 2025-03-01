@@ -1,3 +1,10 @@
+# Table of Contents
+
+- [Motus JS](./docs/esnREADME.md)
+- [Installation](./docs/en/Install.md)
+- [Contribution](./docs/en/Contributions.md)
+- [Roadmap](./docs/en/RoadMap.md)
+
 # Motus JS
 
 Motus JS is a lightweight library with no external dependencies for detecting touch gestures on the web. Its minimalistic and modular design allows to integrate basic touch interactions quickly and efficiently, improving the user experience without sacrificing performance.

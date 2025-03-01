@@ -1,3 +1,10 @@
+# Table of Contents
+
+- [Motus JS](./docs/esnREADME.md)
+- [Installation](./docs/en/Install.md)
+- [Contribution](./docs/en/Contributions.md)
+- [Roadmap](./docs/en/RoadMap.md)
+- 
 # Installing Motus JS
 This section explains the different ways to integrate Motus JS into your project, whether you prefer to manage your dependencies with a package manager or to include the library directly in the browser.
 

@@ -1,3 +1,10 @@
+# Table of Contents
+
+- [Motus JS](./docs/esnREADME.md)
+- [Installation](./docs/en/Install.md)
+- [Contribution](./docs/en/Contributions.md)
+- [Roadmap](./docs/en/RoadMap.md)
+
 # Contribution
 Motus JS is an open source project, and your help is essential to improve and expand its functionality. We welcome any contribution, whether in the form of code, documentation, tests or ideas. Below are the guidelines for contributing and the future plan for the project.
 
