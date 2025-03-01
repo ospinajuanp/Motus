@@ -1,0 +1,31 @@
+{
+  "name": "motus",
+  "version": "1.0.0",
+  "description": "Library Motus JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ospinajuanp/Motus.git"
+  },
+  "keywords": [
+    "\"gesture\"",
+    "\"touch\"",
+    "\"tap\"",
+    "\"swipe\"",
+    "\"longpress\"",
+    "\"mobile\"",
+    "\"javascript\"",
+    "\"lightweight\"",
+    "\"interaction\"",
+    "\"event\""
+  ],
+  "author": "Juan Pablo Ospina Restrepo <juanpo996@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ospinajuanp/Motus/issues"
+  },
+  "homepage": "https://github.com/ospinajuanp/Motus#readme"
+}
