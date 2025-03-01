@@ -11,16 +11,16 @@
     "url": "git+https://github.com/ospinajuanp/Motus.git"
   },
   "keywords": [
-    "\"gesture\"",
-    "\"touch\"",
-    "\"tap\"",
-    "\"swipe\"",
-    "\"longpress\"",
-    "\"mobile\"",
-    "\"javascript\"",
-    "\"lightweight\"",
-    "\"interaction\"",
-    "\"event\""
+    "gesture",
+    "touch",
+    "tap",
+    "swipe",
+    "longpress",
+    "mobile",
+    "javascript",
+    "lightweight",
+    "interaction",
+    "event"
   ],
   "author": "Juan Pablo Ospina Restrepo <juanpo996@gmail.com>",
   "license": "MIT",
