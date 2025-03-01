@@ -1,8 +1,15 @@
 {
-    "presets": [
-        [
-        "@babel/preset-env",
-        { "targets": { "node": "current" } }
-        ]
-    ]
+  "presets": ["@babel/preset-env"],
+  "env": {
+    "browser": {
+      "targets": {
+        "browsers": "last 2 versions"
+      }
+    },
+    "node": {
+      "targets": {
+        "node": "current"
+      }
+    }
+  }
 }
